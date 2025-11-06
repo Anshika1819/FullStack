@@ -1,0 +1,2 @@
+docker build -t react-multi-stage .
+docker run -p 80:80 react-multi-stage
